@@ -1,6 +1,6 @@
 {
   "name": "testmodule",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "testmodule\r ==========",
   "main": "index.js",
   "scripts": {
